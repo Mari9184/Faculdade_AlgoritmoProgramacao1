@@ -1,7 +1,7 @@
 //Mariane Santana da Silva RA:1143431607
 
-import java.lang.Math;
 import java.util.Scanner;
+
 class Main {
     public static void main (String [] args){
         Scanner ler = new Scanner(System.in
