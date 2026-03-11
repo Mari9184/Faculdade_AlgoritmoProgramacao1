@@ -5,7 +5,6 @@ class Main {
     public static void main (String [] args) {
         Scanner ler = new Scanner(System.in);
         
-
             // Exercício 3
 
         System.out.println("Informe um numero");
