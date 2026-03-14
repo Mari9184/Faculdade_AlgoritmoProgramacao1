@@ -43,6 +43,5 @@ class Main {
             default:
                 System.out.print("Não possui dia da semana com este número.");
         }
-        
     }
 }
